@@ -1,2 +1,2 @@
 # hello-world
-"Hello world" tutorial for P&amp;DSS class.
+I'm a second year Master's student in E3B at Columbia University.
